@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "863585104433",
+    "firebase_url": "https://agape-desarrollo.firebaseio.com",
+    "project_id": "agape-desarrollo",
+    "storage_bucket": "agape-desarrollo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863585104433:android:26e521fa431cae8f30db10",
+        "android_client_info": {
+          "package_name": "com.zenkaidigital.app.agape"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863585104433-mlqsriuhkr9974c97ecd9vk1rlnabckb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIsTDGonUZTxvUhvSC4GnF0z57dv7vOt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863585104433-mlqsriuhkr9974c97ecd9vk1rlnabckb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
