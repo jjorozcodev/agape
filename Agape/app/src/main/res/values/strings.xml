@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Agape</string>
+    <string name="default_notification_channel_id">Agape</string>
 </resources>
