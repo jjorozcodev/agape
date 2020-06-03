@@ -2,6 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.zenkaidigital.app.agape">
 
+    <uses-permission android:name="android.permission.INTERNET"/>
+
     <!-- [START fcm_default_icon] -->
     <!-- Set custom default icon. This is used when no icon is set for incoming notification messages.
          See README(https://goo.gl/l4GJaQ) for more. -->
@@ -21,6 +23,7 @@
     <!-- [END fcm_default_channel] -->
 
     <application
+        android:name=".App"
         android:allowBackup="true"
         android:icon="@mipmap/agape_launcher"
         android:label="@string/app_name"

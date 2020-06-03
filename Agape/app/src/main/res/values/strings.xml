@@ -1,4 +1,12 @@
 <resources>
     <string name="app_name">Agape</string>
     <string name="default_notification_channel_id">Agape</string>
+    <string name="rest_api_endpoint_root_url">http://my-json-server.typicode.com/jjorozcodev/agape-json-server/</string>
+    <string-array name="citas_biblicas_random">
+        <item>El principio de la sabiduría es el temor del SEÑOR#Salmo 111:10</item>
+        <item>Todo lo puedo en Cristo que me fortalece#Filipenses 4:13</item>
+        <item>La fe es la garantía de lo que se espera, la certeza de lo que no se ve#Hebreos 11:1</item>
+        <item>Si pedimos conforme a su voluntad, él nos oye#1 Juan 5:14</item>
+        <item>Nosotros amamos a Dios porque él nos amó primero#1 Juan 4:19</item>
+    </string-array>
 </resources>
