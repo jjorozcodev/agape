@@ -4,8 +4,7 @@ import android.os.Bundle
 import android.util.Log
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
-import com.zenkaidigital.app.agape.modelos.Publicador
-import com.zenkaidigital.app.agape.servicios.RestApi
+import com.zenkaidigital.app.agape.servicio.RestApi
 import kotlinx.android.synthetic.main.activity_main.*
 import retrofit2.Call
 import retrofit2.Callback

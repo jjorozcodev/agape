@@ -1,6 +1,5 @@
-package com.zenkaidigital.app.agape.servicios
+package com.zenkaidigital.app.agape.servicio
 
-import com.zenkaidigital.app.agape.modelos.*
 import retrofit2.Call
 import retrofit2.http.GET
 import retrofit2.http.Path
